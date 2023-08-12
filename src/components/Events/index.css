@@ -1,0 +1,29 @@
+.events-container {
+  display: flex;
+  flex-direction: row;
+  min-height: 100vh;
+}
+
+.events-home-container {
+  width: 65%;
+  background-color: #475569;
+  padding: 15px 30px 15px 30px;
+  font-family: 'Roboto';
+}
+
+.event-heading {
+  color: #fff;
+  font-size: 40px;
+  margin-left: 20px;
+}
+
+.event-cards-container {
+  padding: 0;
+  margin: 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  text-align: center;
+  flex-wrap: wrap;
+  margin-right: 30px;
+}

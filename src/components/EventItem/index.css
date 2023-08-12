@@ -1,0 +1,36 @@
+.event-item {
+  list-style-type: none;
+  width: 45%;
+  margin: 10px;
+  font-family: 'Roboto';
+}
+
+.btn {
+  background-color: transparent;
+  cursor: pointer;
+  outline: none;
+  border-style: none;
+}
+
+.event-img {
+  height: 250px;
+}
+
+.active {
+  border: 5px solid #2dd4bf;
+  border-radius: 10px;
+}
+
+.event-name {
+  color: #f8fafc;
+  text-align: left;
+  margin-left: 20px;
+  font-size: 30px;
+}
+
+.event-location {
+  color: #f8fafc;
+  text-align: left;
+  margin-left: 20px;
+  font-size: 20px;
+}
